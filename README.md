@@ -18,4 +18,10 @@ If you're interested in the more general topic of ethics in data science, we rec
 
 https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1
 
+A Few Useful Things to Know about Machine Learning
 
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+Genetic Test for Autism Refuted
+
+http://www.the-scientist.com/?articles.view/articleNo/38030/title/Genetic-Test-for-Autism-Refuted/
