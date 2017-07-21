@@ -25,3 +25,7 @@ https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 Genetic Test for Autism Refuted
 
 http://www.the-scientist.com/?articles.view/articleNo/38030/title/Genetic-Test-for-Autism-Refuted/
+
+Control Groups in Real Life
+
+https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
