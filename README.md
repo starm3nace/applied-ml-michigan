@@ -29,3 +29,11 @@ http://www.the-scientist.com/?articles.view/articleNo/38030/title/Genetic-Test-f
 Control Groups in Real Life
 
 https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
+
+NNs made easy
+
+https://techcrunch.com/2017/04/13/neural-networks-made-easy/
+
+TensorFlow NN playground
+
+http://playground.tensorflow.org
