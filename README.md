@@ -37,3 +37,17 @@ https://techcrunch.com/2017/04/13/neural-networks-made-easy/
 TensorFlow NN playground
 
 http://playground.tensorflow.org
+
+Deep Learning in a Nutshell: Core Concepts
+https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
+
+Assisting Pathologists in Detecting Cancer with Deep Learning
+https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
+
+Data Leakage:
+
+* https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
+* http://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
+* https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839
+* http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+ 
