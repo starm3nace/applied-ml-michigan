@@ -51,3 +51,8 @@ Data Leakage:
 * https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839
 * http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
  
+
+Unsupervised ML:
+
+* https://distill.pub/2016/misread-tsne/#citation
+* https://medium.freecodecamp.org/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba
